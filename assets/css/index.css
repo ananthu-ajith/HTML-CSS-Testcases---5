@@ -321,7 +321,8 @@ footer
 .sub div button
 {
     border: 0;
-    width: 150px;
+    width: 250px;
     color: white;
     background-color: black;
+    border-radius: 20px;
 }
