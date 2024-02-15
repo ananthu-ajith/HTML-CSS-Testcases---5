@@ -305,3 +305,8 @@ footer {
     padding-top: 5%;
   }
 }
+
+button
+{
+    cursor: pointer;
+}
